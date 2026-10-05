@@ -23,7 +23,6 @@ Kein Pitch. Gebaut wird, was nachts läuft.
 | --- | --- |
 | **[Ich liebe Techno](https://github.com/dickGoodman/ich-liebe-techno)** | Dunkler Web-Player. 24/7 Radio, Festival-Notizen, PWA. Near-black, Drumcode-Rot. |
 | **[HeimatX](https://github.com/dickGoodman/heimat-x)** | Techno-Artfilm. Bildwelt, Schnitt, Ton. |
-| **Velora** | 18+ Voice-Companion. Bleibt privat, bis der Stand öffentlich taugt. |
 
 ## Draußen
 
